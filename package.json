@@ -1,0 +1,18 @@
+{
+  "devDependencies": {
+    "@types/node": "^20.4.5",
+    "@types/request-promise": "^4.1.48",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6"
+  },
+  "dependencies": {
+    "@fastify/static": "^6.10.2",
+    "@types/luxon": "^3.3.1",
+    "@types/promise-fs": "^2.1.2",
+    "colorette": "^2.0.20",
+    "fastify": "^4.21.0",
+    "luxon": "^3.4.0",
+    "promise-fs": "^2.1.1",
+    "xregexp": "^5.1.1"
+  }
+}
